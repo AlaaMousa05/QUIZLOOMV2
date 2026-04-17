@@ -15,6 +15,11 @@ This project enables building an online quiz platform with features such as:
 - managing student performance and analytics.
 
 ---
+## MongoDB Data Modeling
+
+<img width="773" height="766" alt="image" src="https://github.com/user-attachments/assets/f0f14190-6ce5-4ac1-9985-c50f72016922" />
+
+---
 
 ## 🎨 Application Screenshots
 
