@@ -1,8 +1,8 @@
-# QUIZLOOMV
+# QUIZLOOM
 
 ## What is this project?
 
-QUIZLOOMV2 is a complete quiz application project that includes two parts:
+QUIZLOOM is a complete quiz application project that includes two parts:
 - a backend server for managing data, users, and questions.
 - a frontend client for registration, quiz creation, and student quiz taking.
 
