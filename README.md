@@ -1,4 +1,4 @@
-# QUIZLOOMV2
+# QUIZLOOMV
 
 ## What is this project?
 
