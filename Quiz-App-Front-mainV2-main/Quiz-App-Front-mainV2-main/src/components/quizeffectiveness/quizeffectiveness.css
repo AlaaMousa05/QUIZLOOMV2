@@ -1,0 +1,26 @@
+.quiz-container {
+  display: flex;
+  flex-direction: column; 
+  align-items: center; 
+  margin-top: 20px;
+  width: 80%; 
+
+   padding: 0 15px; 
+   max-width: 900px;
+
+
+}
+
+.quiz-title {
+  text-align: center;
+  color: #2c356A;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.no-quizzes {
+  text-align: center;
+  color: #2c356A;
+  margin-top: 30px;
+}
